@@ -53,17 +53,21 @@
   </tr>
 </table>
 
-<!--
-**Kilros0817/Kilros0817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
-Here are some ideas to get you started:
+<img align="right" alt="GIF" src="https://github.com/Kilros0817/Kilros0817/blob/main/code.gif?raw=true" width="400" />
+ 
+### DApps & NFT Game
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Smart Contract & Crypto
+<br />
+
+### Crypto Trading Platforms & Bots
+<br />
+
+### AR & VR Web and Mobile application
+<br />
+
+### Video Conference Web & Mobile application
+<br />
