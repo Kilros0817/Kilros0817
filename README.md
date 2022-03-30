@@ -59,10 +59,13 @@
  
 ### DApps & NFT Game
 <br />
+
 ### Smart Contract & Crypto
 <br />
+
 ### Crypto Trading Platforms & Bots
 <br />
+
 ### AR & VR Web and Mobile application
 <br />
 ### Video Conference Web & Mobile application
