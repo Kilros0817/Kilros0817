@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://github.com/Kilros0817/Kilros0817/blob/main/logo1.jpeg?raw=true" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="https://github.com/Kilros0817/Kilros0817/blob/main/logo1.png?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
 
 <!--
