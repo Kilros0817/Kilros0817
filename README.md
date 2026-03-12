@@ -32,4 +32,4 @@
 
 ## Connect
 
-[Email](kilros.kai@gmail.com)
+[Email](mailto:kilros.kai@gmail.com)
