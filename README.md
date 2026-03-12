@@ -1,36 +1,35 @@
-# Hi, I'm a Senior Software Developer 👋
+# Senior Software Developer
 
-Senior Software Developer with 5+ years of experience designing and building scalable web applications and software systems. I specialize in full-stack development, system architecture, and creating reliable, high-performance solutions.
-
-I enjoy solving complex technical problems, writing clean and maintainable code, and building software that scales. Experienced working independently or collaborating with teams in fast-paced environments.
+**6+ years** building and shipping scalable web applications and backend systems. I focus on clear architecture, maintainable code, and systems that perform under load.
 
 ---
 
-## About Me
+## What I Do
 
-- 💻 5+ years of professional software development experience  
-- 🏗️ Strong focus on scalable architecture and clean code  
-- ⚡ Experienced in full-stack development and modern web technologies  
-- 🤝 Enjoy collaborating on impactful projects  
-- 📚 Always learning and improving as a developer  
+- **Full-stack development** — End-to-end ownership from API design to UI and deployment
+- **System design** — Scalable services, data modeling, and integration patterns
+- **Engineering practices** — Clean code, testing, and iterative delivery in agile environments
 
 ---
 
-## My Development Principles
+## Expertise
 
-- Simplicity over complexity  
-- Write clean, maintainable code  
-- Build scalable and reliable systems  
-- Continuous learning and improvement  
+| Area | Focus |
+|------|--------|
+| Backend | APIs, services, databases, performance |
+| Frontend | Modern web apps, UX, and maintainable UI code |
+| Architecture | Scalability, reliability, and technical debt control |
+
+---
+
+## Principles
+
+- **Simplicity first** — Prefer the smallest solution that solves the problem
+- **Code that lasts** — Readable, testable, and easy to change
+- **Ship and learn** — Deliver incrementally and improve from feedback
 
 ---
 
-<details>
-<summary>More about my approach</summary>
+## Connect
 
-I believe good software is built through thoughtful design, strong engineering principles, and collaboration.  
-My goal is to create systems that are easy to maintain, scalable, and deliver real value to users.
-
-</details>
-
----
+[Email](kilros.kai@gmail.com)
