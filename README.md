@@ -27,9 +27,3 @@
 - **Simplicity first** — Prefer the smallest solution that solves the problem
 - **Code that lasts** — Readable, testable, and easy to change
 - **Ship and learn** — Deliver incrementally and improve from feedback
-
----
-
-## Connect
-
-[Email](mailto:kilros.kai@gmail.com)
