@@ -1,6 +1,6 @@
 # Senior Software Developer
 
-**6+ years** building and shipping scalable web applications and backend systems. I focus on clear architecture, maintainable code, and systems that perform under load.
+**12+ years** building and shipping scalable web applications and backend systems. I focus on clear architecture, maintainable code, and systems that perform under load.
 
 ---
 
